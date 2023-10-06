@@ -1,0 +1,15 @@
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\bin\Debug\net6.0\ETicaretAPI.application.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\bin\Debug\net6.0\ETicaretAPI.application.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\bin\Debug\net6.0\ETicaretAPI.application.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\bin\Debug\net6.0\ETicaretAPI.domain.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\bin\Debug\net6.0\ETicaretAPI.domain.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.csproj.CopyComplete
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\refint\ETicaretAPI.application.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ETicaretAPI.application.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.application\obj\Debug\net6.0\ref\ETicaretAPI.application.dll

@@ -1,0 +1,12 @@
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\bin\Debug\net6.0\ETicaretAPI.domain.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\bin\Debug\net6.0\ETicaretAPI.domain.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\bin\Debug\net6.0\ETicaretAPI.domain.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\refint\ETicaretAPI.domain.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ETicaretAPI.domain.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.domain\obj\Debug\net6.0\ref\ETicaretAPI.domain.dll

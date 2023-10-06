@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Yl8Hdq3JkM1R0HnaLOEdBk1vPKCN/uLRa6XkjFetpO0=",
+  "Source": "ETicaretAPI.api",
+  "BasePath": "_content/ETicaretAPI.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI.api\\wwwroot",
+      "Source": "ETicaretAPI.api",
+      "ContentRoot": "C:\\Users\\Casper\\Desktop\\GitHub Projects\\ETicaretAPI\\ETicaretAPI.api\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

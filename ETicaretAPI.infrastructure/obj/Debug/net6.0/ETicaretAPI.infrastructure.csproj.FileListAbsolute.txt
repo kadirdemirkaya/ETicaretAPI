@@ -1,0 +1,17 @@
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.infrastructure.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.infrastructure.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.infrastructure.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.application.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.domain.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.application.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\bin\Debug\net6.0\ETicaretAPI.domain.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.csproj.CopyComplete
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\refint\ETicaretAPI.infrastructure.dll
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ETicaretAPI.infrastructure.pdb
+C:\Users\Casper\Desktop\GitHub Projects\ETicaretAPI\ETicaretAPI.infrastructure\obj\Debug\net6.0\ref\ETicaretAPI.infrastructure.dll
